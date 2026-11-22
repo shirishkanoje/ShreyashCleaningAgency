@@ -1,0 +1,7 @@
+Hero slider photos (jpg, 1600x900, landscape). Subject photo ke RIGHT side me rakho.
+hero-1.jpg  c:\Users\shirish\Desktop\New folder\hero-1.jpg
+hero-2.jpg  sofa cleaning (laga hua hai)
+hero-3.jpg  carpet cleaning (laga hua hai)
+hero-4.jpg  kitchen/bathroom
+hero-5.jpg  bedroom
+hero-6.jpg  shoe cleaning offer (laga hua hai)

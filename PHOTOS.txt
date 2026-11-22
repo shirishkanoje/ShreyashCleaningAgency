@@ -1,0 +1,13 @@
+PHOTO KAHAN DAALNI HAI  (sirf file replace karo, code me path nahi badalna)
+=====================================================================
+Sab photos folder  public/images/  me hain. Same naam se nayi photo daal ke purani ko Replace karo.
+Photo nahi hogi to apne aap drawing dikhegi.
+
+public/images/logo.png                 -> Logo (PNG, transparent, ~400x120). Navbar + loading screen
+public/images/offer.jpg                -> Free shoe cleaning offer ki photo (900x700)
+public/images/about.jpg                -> About section ki photo (900x600)
+public/images/hero/hero-1.jpg ... hero-6.jpg -> Hero slider (1600x900)
+public/images/services/<service>.jpg   -> 13 services ke card (800x520), naam list: services folder ki txt file
+public/images/equipment/<name>.jpg     -> 4 equipment cards (800x520)
+
+Baad me: browser me Ctrl+F5 dabao (cache saaf).
